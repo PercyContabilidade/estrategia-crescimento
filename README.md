@@ -7,8 +7,12 @@
 
 ---
 
-## 1. A Filosofia de Atuação
-A regra de ouro é a autorresponsabilidade e a eliminação da vitimização na jornada do cliente. O conteúdo deve sempre seguir o princípio de **"Educar para Vender"**: consciencializar o cliente de que o serviço básico que ele procura esconde uma necessidade jurídica e contábil muito mais profunda.
+## 1. A Filosofia de Atuação e Filtros de Execução
+A regra de ouro é a autorresponsabilidade e a eliminação da vitimização na jornada do cliente ("Resolva os seus problemas"). O conteúdo nunca é brando; ele confronta o amadorismo. A execução da captação e das ofertas passa obrigatoriamente por três filtros de alta conversão:
+
+* **Filtro Neil Patel (SEO Comercial):** Foco absoluto na intenção comercial imediata. Utilização de palavras-chave exatas que atraem o cliente no exato momento da decisão de compra (ex: "Declaração de Imposto de Renda 2026", "malha fina da Receita Federal"). O objetivo é entregar a solução para quem já tem o cartão na mão.
+* **Filtro Rafael Rez (Educar para Vender):** Elevação contínua do nível de consciência. O conteúdo deve evidenciar que a dor superficial do cliente (um serviço pontual) esconde uma doença estrutural maior. Conectamos o alerta imediato à necessidade de transição para a nossa esteira de serviços (ex: do MEI desorganizado para a mentoria "Avancei, Sou LTDA").
+* **Filtro Brian Dean (Autoridade e Risco Invertido):** Eliminação do atrito de compra através de garantias inquestionáveis. Retiramos o peso das costas do cliente assumindo a responsabilidade técnica (dupla verificação) e ancoramos a oferta com bónus de alto valor percebido (como a Auditoria de Risco do CNPJ). Isto torna irracional a escolha por qualquer outro escritório.
 
 ## 2. O Funil de Conversão (A Jornada do Cliente)
 
